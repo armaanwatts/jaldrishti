@@ -1,4 +1,5 @@
 """Durable Web Push queue. Only administrator-published messages are eligible."""
+import os
 import base64
 import json
 from pathlib import Path
@@ -7,28 +8,42 @@ from urllib.parse import urlencode
 from core import ROOT
 CONFIG=ROOT/'private/webpush.json'
 
+def load_config():
+    if os.getenv('DATABASE_URL'):
+        from postgres_store import get_setting
+        value=get_setting('webpush')
+        return json.loads(value) if value else None
+    return json.loads(CONFIG.read_text()) if CONFIG.exists() else None
+
 def public_config():
-    if not CONFIG.exists():return {'configured':False,'public_key':None}
-    config=json.loads(CONFIG.read_text());return {'configured':True,'public_key':config['public_key']}
+    config=load_config()
+    if not config:return {'configured':False,'public_key':None}
+    return {'configured':True,'public_key':config['public_key']}
 
 def configure(subject):
     if not (subject.startswith('mailto:') and '@' in subject):raise ValueError('Use a real contact address: mailto:you@example.com')
-    if CONFIG.exists():return public_config()
+    if load_config():return public_config()
     from cryptography.hazmat.primitives.asymmetric import ec
     from cryptography.hazmat.primitives import serialization
     key=ec.generate_private_key(ec.SECP256R1())
     pem=key.private_bytes(serialization.Encoding.PEM,serialization.PrivateFormat.PKCS8,serialization.NoEncryption()).decode()
     public=key.public_key().public_bytes(serialization.Encoding.X962,serialization.PublicFormat.UncompressedPoint)
-    CONFIG.parent.mkdir(parents=True,exist_ok=True,mode=0o700)
-    CONFIG.write_text(json.dumps({'subject':subject,'private_key':pem,'public_key':base64.urlsafe_b64encode(public).decode().rstrip('=')}));CONFIG.chmod(0o600)
+    config={'subject':subject,'private_key':pem,'public_key':base64.urlsafe_b64encode(public).decode().rstrip('=')}
+    if os.getenv('DATABASE_URL'):
+        from postgres_store import put_setting_once
+        put_setting_once('webpush',json.dumps(config))
+    else:
+        CONFIG.parent.mkdir(parents=True,exist_ok=True,mode=0o700)
+        CONFIG.write_text(json.dumps(config));CONFIG.chmod(0o600)
     return public_config()
 
 def process_queue(limit=30):
-    if not CONFIG.exists():return {'configured':False,'processed':0}
+    config=load_config()
+    if not config:return {'configured':False,'processed':0}
     from community import database,audience,valid_endpoint
     from pywebpush import webpush,WebPushException
     from py_vapid import Vapid
-    config=json.loads(CONFIG.read_text());vapid=Vapid.from_pem(config['private_key'].encode());processed=0
+    vapid=Vapid.from_pem(config['private_key'].encode());processed=0
     for _ in range(limit):
         now=time.time()
         with database() as c:

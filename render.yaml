@@ -2,13 +2,11 @@ services:
   - type: web
     name: jaldrishti-api
     runtime: docker
-    plan: starter
+    plan: free
     healthCheckPath: /api/health
-    disk:
-      name: jaldrishti-state
-      mountPath: /var/data
-      sizeGB: 1
     envVars:
+      - key: DATABASE_URL
+        sync: false
       - key: DEPLOYMENT_MODE
         value: cloud
       - key: PUBLIC_ORIGINS

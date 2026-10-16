@@ -203,7 +203,9 @@ def logout(authorization:str|None=Header(default=None)):
     return {'ok':True}
 @app.post('/api/admin/preview')
 async def preview(file:UploadFile=File(...),source_url:str=Form(...),authorization:str|None=Header(default=None)):
-    token=auth(authorization);content=await file.read(40*1024*1024+1)
+    token=auth(authorization)
+    if os.getenv('DATABASE_URL'):raise HTTPException(409,'Cloud demo datasets are read-only. Update reviewed public data through GitHub and redeploy. Regional messages remain available.')
+    content=await file.read(40*1024*1024+1)
     try: df=validate_upload(content,records(),source_url)
     except Exception as e: raise HTTPException(422,str(e)) from e
     now=time.time()
@@ -217,6 +219,7 @@ class Publish(BaseModel): preview_id:str;reviewed:bool=False
 @app.post('/api/admin/publish')
 def publish_data(body:Publish,authorization:str|None=Header(default=None)):
     token=auth(authorization)
+    if os.getenv('DATABASE_URL'):raise HTTPException(409,'Cloud demo data updates must be committed through GitHub.')
     with lock:
         item=pending.get(body.preview_id)
         if not item or item['token']!=token or item['expires']<time.time(): raise HTTPException(400,'Preview expired')

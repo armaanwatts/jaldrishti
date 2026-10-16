@@ -22,13 +22,7 @@ DB=ROOT/'private/community.sqlite3'
 COOKIE='jaldrishti_device'
 LANGS=['English','Hindi','Marathi']
 
-@contextmanager
-def database():
-    DB.parent.mkdir(parents=True,exist_ok=True,mode=0o700)
-    DB.parent.chmod(0o700)
-    c=sqlite3.connect(DB,timeout=20);DB.chmod(0o600);c.row_factory=sqlite3.Row
-    c.execute('PRAGMA foreign_keys=ON');c.execute('PRAGMA journal_mode=WAL')
-    c.executescript('''
+COMMUNITY_SCHEMA='''
     CREATE TABLE IF NOT EXISTS profiles(id TEXT PRIMARY KEY,token_hash TEXT UNIQUE NOT NULL,language TEXT NOT NULL,created REAL NOT NULL,expires REAL NOT NULL);
     CREATE TABLE IF NOT EXISTS regions(id TEXT PRIMARY KEY,profile_id TEXT NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,district TEXT NOT NULL,block TEXT NOT NULL DEFAULT '',UNIQUE(profile_id,district,block));
     CREATE TABLE IF NOT EXISTS subscriptions(profile_id TEXT PRIMARY KEY REFERENCES profiles(id) ON DELETE CASCADE,payload TEXT NOT NULL,enabled INTEGER NOT NULL DEFAULT 1);
@@ -39,7 +33,19 @@ def database():
     CREATE INDEX IF NOT EXISTS region_target ON regions(district,block,profile_id);
     CREATE INDEX IF NOT EXISTS inbox_profile ON inbox(profile_id,alert_id);
     CREATE INDEX IF NOT EXISTS outbox_queue ON outbox(state,next_try);
-    ''')
+    '''
+
+@contextmanager
+def database():
+    if os.getenv('DATABASE_URL'):
+        from postgres_store import database as postgres_database
+        with postgres_database() as c:yield c
+        return
+    DB.parent.mkdir(parents=True,exist_ok=True,mode=0o700)
+    DB.parent.chmod(0o700)
+    c=sqlite3.connect(DB,timeout=20);DB.chmod(0o600);c.row_factory=sqlite3.Row
+    c.execute('PRAGMA foreign_keys=ON');c.execute('PRAGMA journal_mode=WAL')
+    c.executescript(COMMUNITY_SCHEMA)
     try:
         yield c;c.commit()
     except Exception:c.rollback();raise
