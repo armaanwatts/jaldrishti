@@ -1,0 +1,27 @@
+{
+  "training_targets": "1997\u20132020 where matching prior-year readings exist",
+  "training_pairs": 86458,
+  "features": [
+    "prior_depth",
+    "month",
+    "latitude",
+    "longitude"
+  ],
+  "rainfall_used": false,
+  "model": "HistGradientBoostingRegressor fixed configuration; no tuning on holdouts",
+  "results": [
+    {
+      "split": "validation_2021",
+      "evaluated": 2249,
+      "baseline_mae_m": 1.457705646954202,
+      "model_mae_m": 1.4264393986103074
+    },
+    {
+      "split": "test_2023",
+      "evaluated": 2090,
+      "baseline_mae_m": 1.861598086124402,
+      "model_mae_m": 1.801577211222696
+    }
+  ],
+  "note": "Historical backtest only. Errors are not prediction intervals. No current-condition forecast."
+}

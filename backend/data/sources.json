@@ -1,0 +1,37 @@
+{
+  "retrieved_utc": "2026-10-16",
+  "well_source": "CGWB via National Water Data Portal",
+  "well_resource_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department/resource/073029e8-492d-416c-9857-3ad3e27c69a6",
+  "download_url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/073029e8-492d-416c-9857-3ad3e27c69a6/download/gwl_manual_quarterly_cgwb_mh_2021_2025.csv",
+  "observations": 13430,
+  "stations": 1783,
+  "districts": 36,
+  "actual_first_date": "2021-01-10 00:00",
+  "actual_last_date": "2023-08-10 10:00",
+  "current_2026_resource_url": "https://nwdp.nwic.gov.in/dataset/gwl-manual-quarterly-central-ground-water-board-department/resource/59f9aee6-701e-42db-860c-b0f7663f6383",
+  "current_2026_download_check": "Downloaded CSV contained header only, zero records on 2026-10-16. This does not prove all official 2026 sources are empty.",
+  "district_boundary_year": 2021,
+  "district_license": "ODbL 1.0; geoBoundaries / Pathways Data / lgdirectory.gov.in",
+  "block_boundary_year": 2018,
+  "block_license": "ODbL 1.0; geoBoundaries / Pathways Data / lgdirectory.gov.in",
+  "state_metadata_year": 2011,
+  "state_license": "CC BY 2.5 IN; DataMeet India community / Election Commission of India via geoBoundaries",
+  "geoboundaries_commit": "9469f09",
+  "simplification_note": "District .002 deg, subdistrict .001 deg, state .012 deg, preserve_topology. Repair invalid geometry using buffer(0). Historical reference boundaries, not legal/cadastral boundaries.",
+  "well_source_sha256": "5fd40cbfc51ad349e25cd7678e3bafdac732d470986ec1c55c39a23b174b04d0",
+  "scope": "Maharashtra groundwater levels only. No water quality, yield, crop advice or measured 2026 conditions are included.",
+  "history_expansion": [
+    {
+      "resource_id": "0e7180fa-5282-4df6-bead-8ca7a7557e74",
+      "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/0e7180fa-5282-4df6-bead-8ca7a7557e74/download/gwl_manual_quarterly_cgwb_mh_1991_2020.csv",
+      "sha256": "8e2c13f5aa5af13245cd51056ba0062550967f869901a75a56733fd28e4de3c0",
+      "retrieved_on": "2026-10-16"
+    },
+    {
+      "resource_id": "073029e8-492d-416c-9857-3ad3e27c69a6",
+      "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/073029e8-492d-416c-9857-3ad3e27c69a6/download/gwl_manual_quarterly_cgwb_mh_2021_2025.csv",
+      "sha256": "5fd40cbfc51ad349e25cd7678e3bafdac732d470986ec1c55c39a23b174b04d0",
+      "retrieved_on": "2026-10-16"
+    }
+  ]
+}

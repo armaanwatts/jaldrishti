@@ -1,0 +1,22 @@
+{
+  "source_url": "https://nwdp.nwic.gov.in/dataset/ground-water-level-telemetry-daily-maharashtra-gw",
+  "download_url": "https://nwdp.nwic.gov.in/dataset/3e0f97ab-5bf6-498f-96c5-7b23dfdb9a70/resource/7a821ef4-b73b-4243-9a42-4f1a6f300230/download/gwl_tel_6_hourly_maharashtra_gw_mh_2026_2030.csv",
+  "checked_at": "2026-10-16T05:59:01.504808+00:00",
+  "first_observation": "2026-01-01T00:00:00",
+  "latest_observation": "2026-10-14T18:00:00",
+  "raw_record_count": 961043,
+  "station_count": 1449,
+  "negative_values": 914797,
+  "nonnegative_values": 46246,
+  "sha256": "bcefa0cc639ce17b2aadc6e856895294bf206a4a56d448f1e0afdf99c03d55ac",
+  "download_complete": true,
+  "integration_status": "review_only",
+  "measurement_convention_verified": false,
+  "used_for_forecasting": false,
+  "issues": [
+    "Signed values need an authoritative measurement-convention review; no absolute-value conversion performed.",
+    "Dataset page producer-agency metadata says Madhya Pradesh GW despite Maharashtra title and rows. Review source metadata.",
+    "Telemetry identities are separate from CGWB manual station keys.",
+    "This snapshot does not establish that every station is current or healthy."
+  ]
+}

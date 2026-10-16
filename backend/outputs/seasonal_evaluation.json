@@ -1,0 +1,47 @@
+{
+  "target": "Next scheduled survey round: Jan\u2192May (4 months), May\u2192Aug (3), Aug\u2192Nov (3), Nov\u2192Jan (2)",
+  "training_target_end_year": 2020,
+  "validation_year": 2021,
+  "test_year": 2023,
+  "training_pairs": 76757,
+  "features": [
+    "last_depth",
+    "prior_year_depth",
+    "origin_month",
+    "month",
+    "latitude",
+    "longitude"
+  ],
+  "rainfall_used": false,
+  "interval_radius_m": 2.552556520277802,
+  "interval_method": "Absolute residual 90th percentile from 2021; empirical, not a guaranteed confidence interval",
+  "watch_rule": "Exploratory only: lower predicted bound exceeds the training-only district/target-month 90th percentile, with at least 30 training measurements. This is not a validated crisis classification.",
+  "results": [
+    {
+      "split": "validation_2021",
+      "count": 1316,
+      "baseline_mae_m": 1.2374430091185409,
+      "model_mae_m": 1.1284840364354323,
+      "empirical_interval_coverage": 0.9012158054711246,
+      "watch_count": 35,
+      "watch_precision": 0.9714285714285714,
+      "watch_recall": 0.2463768115942029
+    },
+    {
+      "split": "test_2023",
+      "count": 1605,
+      "baseline_mae_m": 1.8533271028037384,
+      "model_mae_m": 1.7640341487578943,
+      "empirical_interval_coverage": 0.8018691588785046,
+      "watch_count": 33,
+      "watch_precision": 0.8181818181818182,
+      "watch_recall": 0.23684210526315788
+    }
+  ],
+  "limitations": [
+    "2023 has been inspected in previous experiments: this is exploratory, not an untouched benchmark.",
+    "Rainfall integration and newer ground measurements are required for operational use.",
+    "Existing-station performance; no unseen-village validation.",
+    "No operational current forecast is enabled."
+  ]
+}

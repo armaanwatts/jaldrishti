@@ -1,0 +1,38 @@
+{
+  "provider": "Open-Meteo Historical Weather API",
+  "model": "ERA5 reanalysis",
+  "variable": "daily precipitation_sum",
+  "units": "mm",
+  "timezone": "Asia/Kolkata",
+  "coverage": "Yavatmal only",
+  "requested_start": "2014-01-01",
+  "requested_end": "2023-12-31",
+  "actual_start": "2014-01-01",
+  "actual_end": "2023-12-31",
+  "cell_count": 28,
+  "station_histories": 121,
+  "daily_cell_records": 102256,
+  "missing_values": 0,
+  "source_url": "https://open-meteo.com/en/docs/historical-weather-api",
+  "attribution": "Weather data by Open-Meteo, ERA5 / Copernicus. CC BY 4.0; API use terms apply.",
+  "imd_data": false,
+  "retrieved_at": "2026-10-16T07:45:56.548373+00:00",
+  "requests": [
+    {
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=19.5%2C19.75%2C19.75%2C19.75%2C19.75%2C19.75%2C19.75&longitude=77.75%2C77.5%2C77.75%2C78.0%2C78.5%2C78.75%2C79.0&start_date=2014-01-01&end_date=2023-12-31&daily=precipitation_sum&models=era5&timezone=Asia%2FKolkata&cell_selection=nearest&elevation=nan%2Cnan%2Cnan%2Cnan%2Cnan%2Cnan%2Cnan",
+      "sha256": "59fb0fba158716ecd8519ac72a3d8c257c7ac3ff066e31622c1b7e3add7253d8"
+    },
+    {
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=19.75%2C20.0%2C20.0%2C20.0%2C20.0%2C20.0%2C20.0&longitude=79.25%2C77.25%2C77.5%2C77.75%2C78.0%2C78.25%2C78.5&start_date=2014-01-01&end_date=2023-12-31&daily=precipitation_sum&models=era5&timezone=Asia%2FKolkata&cell_selection=nearest&elevation=nan%2Cnan%2Cnan%2Cnan%2Cnan%2Cnan%2Cnan",
+      "sha256": "7d32fa50ee6f439b8123a2399ac83caecb73063128f9cac182a3963f1ba203a5"
+    },
+    {
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=20.0%2C20.0%2C20.25%2C20.25%2C20.25%2C20.25%2C20.25&longitude=78.75%2C79.0%2C77.75%2C78.0%2C78.25%2C78.5%2C78.75&start_date=2014-01-01&end_date=2023-12-31&daily=precipitation_sum&models=era5&timezone=Asia%2FKolkata&cell_selection=nearest&elevation=nan%2Cnan%2Cnan%2Cnan%2Cnan%2Cnan%2Cnan",
+      "sha256": "313fd1a88abb026a41b37622bf49e038588e7a0bdc2bf0f8c5174dd56902bbf9"
+    },
+    {
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=20.25%2C20.5%2C20.5%2C20.5%2C20.5%2C20.5%2C20.75&longitude=79.0%2C77.5%2C77.75%2C78.0%2C78.25%2C78.5%2C78.25&start_date=2014-01-01&end_date=2023-12-31&daily=precipitation_sum&models=era5&timezone=Asia%2FKolkata&cell_selection=nearest&elevation=nan%2Cnan%2Cnan%2Cnan%2Cnan%2Cnan%2Cnan",
+      "sha256": "24e739a34fb4093f0f912f9065f54001e3d2bff4f1115e8475bfc6e36fb02767"
+    }
+  ]
+}

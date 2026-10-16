@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "resource_id": "0e7180fa-5282-4df6-bead-8ca7a7557e74",
+      "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/0e7180fa-5282-4df6-bead-8ca7a7557e74/download/gwl_manual_quarterly_cgwb_mh_1991_2020.csv",
+      "sha256": "8e2c13f5aa5af13245cd51056ba0062550967f869901a75a56733fd28e4de3c0",
+      "retrieved_on": "2026-10-16"
+    },
+    {
+      "resource_id": "073029e8-492d-416c-9857-3ad3e27c69a6",
+      "url": "https://nwdp.nwic.gov.in/dataset/956add67-cba9-41a5-9d5c-96d73db44aef/resource/073029e8-492d-416c-9857-3ad3e27c69a6/download/gwl_manual_quarterly_cgwb_mh_2021_2025.csv",
+      "sha256": "5fd40cbfc51ad349e25cd7678e3bafdac732d470986ec1c55c39a23b174b04d0",
+      "retrieved_on": "2026-10-16"
+    }
+  ],
+  "rainfall_loaded": false,
+  "note": "Resource title years are not actual observation coverage."
+}

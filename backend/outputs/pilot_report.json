@@ -1,0 +1,96 @@
+{
+  "pilot": "Yavatmal only",
+  "rainfall_provider": "Open-Meteo / ERA5 reanalysis; not IMD observations",
+  "training_years": "2015\u20132020 target years",
+  "training_pairs": 1218,
+  "validation_year": 2022,
+  "test_year": 2023,
+  "forecast_horizon": "Next scheduled CGWB survey round, 2\u20134 months",
+  "selection": "Lowest 2022 validation MAE; configuration fixed before inspecting this pilot test output",
+  "selected_method": "gradient_rain",
+  "scores": [
+    {
+      "split": "validation_2022",
+      "method": "seasonal_baseline",
+      "measurements": 126,
+      "mae_m": 1.707857142857143,
+      "empirical_interval_coverage": 0.9126984126984127
+    },
+    {
+      "split": "validation_2022",
+      "method": "gradient_no_rain",
+      "measurements": 126,
+      "mae_m": 1.2321675663499811,
+      "empirical_interval_coverage": 0.9126984126984127
+    },
+    {
+      "split": "validation_2022",
+      "method": "gradient_rain",
+      "measurements": 126,
+      "mae_m": 1.2248321185018323,
+      "empirical_interval_coverage": 0.9126984126984127
+    },
+    {
+      "split": "validation_2022",
+      "method": "cbr_rain",
+      "measurements": 126,
+      "mae_m": 1.64479508598923,
+      "empirical_interval_coverage": 0.9126984126984127
+    },
+    {
+      "split": "test_2023",
+      "method": "seasonal_baseline",
+      "measurements": 151,
+      "mae_m": 1.5999006622516554,
+      "empirical_interval_coverage": 0.9072847682119205
+    },
+    {
+      "split": "test_2023",
+      "method": "gradient_no_rain",
+      "measurements": 151,
+      "mae_m": 1.7267459742055522,
+      "empirical_interval_coverage": 0.7814569536423841
+    },
+    {
+      "split": "test_2023",
+      "method": "gradient_rain",
+      "measurements": 151,
+      "mae_m": 1.8348576982550002,
+      "empirical_interval_coverage": 0.695364238410596
+    },
+    {
+      "split": "test_2023",
+      "method": "cbr_rain",
+      "measurements": 151,
+      "mae_m": 1.7342353217628994,
+      "empirical_interval_coverage": 0.8278145695364238
+    }
+  ],
+  "interval_radius_m": 2.264565851847994,
+  "warning_metrics": {
+    "eligible_test_measurements": 59,
+    "true_positive": 0,
+    "false_positive": 13,
+    "false_negative": 1,
+    "true_negative": 45,
+    "precision": 0.0,
+    "recall": 0.0
+  },
+  "colours": {
+    "red": "Critical historical depth anomaly: estimate exceeds same-station/same-season training 90th percentile; experimental, not a confirmed crisis",
+    "amber": "Estimate above training 75th percentile but not 90th",
+    "green": "Estimate at or below training 75th percentile; not a safe-water claim",
+    "grey": "Fewer than four training readings for this station/season"
+  },
+  "thresholds_use_test_data": false,
+  "current_forecast_supported": false,
+  "validated_crisis_warnings": false,
+  "limitations": [
+    "No matched next-round Yavatmal pairs were available in 2021; 2022 is used for validation.",
+    "2023 has been inspected previously; exploratory backtest, not an untouched final benchmark.",
+    "Rainfall is gridded reanalysis at nearest cells, not measured at the wells.",
+    "Statistical anomaly labels are not validated hydrological crisis labels.",
+    "No future precipitation is used; rolling windows end before the forecast-origin day.",
+    "Prediction intervals are empirical; report actual test coverage rather than promising 90%."
+  ]
+}

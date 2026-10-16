@@ -1,0 +1,389 @@
+well_id,district,block,site_name,well_type,aquifer,period,depth_m_bgl,source_pdf_page,source_report_page,source_annexure,source_file
+G/YT-001,Yavatmal,Kalamb,Kolamb,DW,Unconfined,2023-05,9.54,126,112,1,17544650351127476384file.pdf
+G/YT-001,Yavatmal,Kalamb,Kolamb,DW,Unconfined,2023-08,7.94,126,112,1,17544650351127476384file.pdf
+G/YT-001,Yavatmal,Kalamb,Kolamb,DW,Unconfined,2023-11,8.1,126,112,1,17544650351127476384file.pdf
+G/YT-001,Yavatmal,Kalamb,Kolamb,DW,Unconfined,2024-01,8.74,126,112,1,17544650351127476384file.pdf
+G/YT-005,Yavatmal,Kelapur,Pandharkawada,DW,Unconfined,2023-05,1.33,126,112,1,17544650351127476384file.pdf
+G/YT-005,Yavatmal,Kelapur,Pandharkawada,DW,Unconfined,2023-08,0.93,126,112,1,17544650351127476384file.pdf
+G/YT-005,Yavatmal,Kelapur,Pandharkawada,DW,Unconfined,2023-11,4.43,126,112,1,17544650351127476384file.pdf
+G/YT-005,Yavatmal,Kelapur,Pandharkawada,DW,Unconfined,2024-01,1.53,126,112,1,17544650351127476384file.pdf
+G/YT-009,Yavatmal,Mahagaon,Dhanoda,DW,Unconfined,2023-05,7.2,126,112,1,17544650351127476384file.pdf
+G/YT-009,Yavatmal,Mahagaon,Dhanoda,DW,Unconfined,2023-08,2.05,126,112,1,17544650351127476384file.pdf
+G/YT-009,Yavatmal,Mahagaon,Dhanoda,DW,Unconfined,2023-11,5.03,126,112,1,17544650351127476384file.pdf
+G/YT-009,Yavatmal,Mahagaon,Dhanoda,DW,Unconfined,2024-01,6.16,126,112,1,17544650351127476384file.pdf
+G/YT-010,Yavatmal,Digras,Digras,DW,Unconfined,2023-05,5.25,126,112,1,17544650351127476384file.pdf
+G/YT-010,Yavatmal,Digras,Digras,DW,Unconfined,2023-08,1.97,126,112,1,17544650351127476384file.pdf
+G/YT-010,Yavatmal,Digras,Digras,DW,Unconfined,2023-11,2.85,126,112,1,17544650351127476384file.pdf
+G/YT-010,Yavatmal,Digras,Digras,DW,Unconfined,2024-01,3.25,126,112,1,17544650351127476384file.pdf
+G/YT-011,Yavatmal,Darwha,Selodi,DW,Unconfined,2023-05,4.5,126,112,1,17544650351127476384file.pdf
+G/YT-011,Yavatmal,Darwha,Selodi,DW,Unconfined,2023-08,2.05,126,112,1,17544650351127476384file.pdf
+G/YT-011,Yavatmal,Darwha,Selodi,DW,Unconfined,2023-11,8.58,126,112,1,17544650351127476384file.pdf
+G/YT-011,Yavatmal,Darwha,Selodi,DW,Unconfined,2024-01,3.84,126,112,1,17544650351127476384file.pdf
+G/YT-012,Yavatmal,Kelapur,Mohada,DW,Unconfined,2023-05,4.9,127,113,1,17544650351127476384file.pdf
+G/YT-012,Yavatmal,Kelapur,Mohada,DW,Unconfined,2023-08,1.15,127,113,1,17544650351127476384file.pdf
+G/YT-012,Yavatmal,Kelapur,Mohada,DW,Unconfined,2023-11,5.3,127,113,1,17544650351127476384file.pdf
+G/YT-012,Yavatmal,Kelapur,Mohada,DW,Unconfined,2024-01,5.84,127,113,1,17544650351127476384file.pdf
+G/YT-014,Yavatmal,Yavatmal,Wadgaon,DW,Unconfined,2023-05,4.5,127,113,1,17544650351127476384file.pdf
+G/YT-014,Yavatmal,Yavatmal,Wadgaon,DW,Unconfined,2023-08,1.53,127,113,1,17544650351127476384file.pdf
+G/YT-014,Yavatmal,Yavatmal,Wadgaon,DW,Unconfined,2023-11,2.85,127,113,1,17544650351127476384file.pdf
+G/YT-014,Yavatmal,Yavatmal,Wadgaon,DW,Unconfined,2024-01,4.04,127,113,1,17544650351127476384file.pdf
+G/YT-015,Yavatmal,Maregaon,Maregaon,DW,Unconfined,2023-05,11.05,127,113,1,17544650351127476384file.pdf
+G/YT-015,Yavatmal,Maregaon,Maregaon,DW,Unconfined,2023-08,5.04,127,113,1,17544650351127476384file.pdf
+G/YT-015,Yavatmal,Maregaon,Maregaon,DW,Unconfined,2023-11,7.43,127,113,1,17544650351127476384file.pdf
+G/YT-015,Yavatmal,Maregaon,Maregaon,DW,Unconfined,2024-01,10.87,127,113,1,17544650351127476384file.pdf
+G/YT-016,Yavatmal,Yavatmal,Kolambi,DW,Unconfined,2023-05,5.44,127,113,1,17544650351127476384file.pdf
+G/YT-016,Yavatmal,Yavatmal,Kolambi,DW,Unconfined,2023-08,3.76,127,113,1,17544650351127476384file.pdf
+G/YT-016,Yavatmal,Yavatmal,Kolambi,DW,Unconfined,2023-11,4.9,127,113,1,17544650351127476384file.pdf
+G/YT-016,Yavatmal,Yavatmal,Kolambi,DW,Unconfined,2024-01,4.76,127,113,1,17544650351127476384file.pdf
+G/YT-019,Yavatmal,Pusad,Marwadi Khurd,DW,Unconfined,2023-05,7.1,127,113,1,17544650351127476384file.pdf
+G/YT-019,Yavatmal,Pusad,Marwadi Khurd,DW,Unconfined,2023-08,1.14,127,113,1,17544650351127476384file.pdf
+G/YT-019,Yavatmal,Pusad,Marwadi Khurd,DW,Unconfined,2023-11,2.4,127,113,1,17544650351127476384file.pdf
+G/YT-019,Yavatmal,Pusad,Marwadi Khurd,DW,Unconfined,2024-01,1.66,127,113,1,17544650351127476384file.pdf
+G/YT-023,Yavatmal,Ghatanji,Parwa,DW,Unconfined,2023-05,2.25,127,113,1,17544650351127476384file.pdf
+G/YT-023,Yavatmal,Ghatanji,Parwa,DW,Unconfined,2023-08,0.97,127,113,1,17544650351127476384file.pdf
+G/YT-023,Yavatmal,Ghatanji,Parwa,DW,Unconfined,2023-11,1.98,127,113,1,17544650351127476384file.pdf
+G/YT-023,Yavatmal,Ghatanji,Parwa,DW,Unconfined,2024-01,2.43,127,113,1,17544650351127476384file.pdf
+G/YT-026,Yavatmal,Ner,Mohgaon Kasba,DW,Unconfined,2023-05,10,127,113,1,17544650351127476384file.pdf
+G/YT-026,Yavatmal,Ner,Mohgaon Kasba,DW,Unconfined,2023-08,,127,113,1,17544650351127476384file.pdf
+G/YT-026,Yavatmal,Ner,Mohgaon Kasba,DW,Unconfined,2023-11,,127,113,1,17544650351127476384file.pdf
+G/YT-026,Yavatmal,Ner,Mohgaon Kasba,DW,Unconfined,2024-01,,127,113,1,17544650351127476384file.pdf
+G/YT-027,Yavatmal,Digras,Mahagaon,DW,Unconfined,2023-05,4.9,127,113,1,17544650351127476384file.pdf
+G/YT-027,Yavatmal,Digras,Mahagaon,DW,Unconfined,2023-08,2.94,127,113,1,17544650351127476384file.pdf
+G/YT-027,Yavatmal,Digras,Mahagaon,DW,Unconfined,2023-11,5.42,127,113,1,17544650351127476384file.pdf
+G/YT-027,Yavatmal,Digras,Mahagaon,DW,Unconfined,2024-01,10.84,127,113,1,17544650351127476384file.pdf
+G/YT-028,Yavatmal,Digras,Lonbhel,DW,Unconfined,2023-05,5.6,127,113,1,17544650351127476384file.pdf
+G/YT-028,Yavatmal,Digras,Lonbhel,DW,Unconfined,2023-08,2.85,127,113,1,17544650351127476384file.pdf
+G/YT-028,Yavatmal,Digras,Lonbhel,DW,Unconfined,2023-11,3.93,127,113,1,17544650351127476384file.pdf
+G/YT-028,Yavatmal,Digras,Lonbhel,DW,Unconfined,2024-01,4.06,127,113,1,17544650351127476384file.pdf
+G/YT-030,Yavatmal,Pusad,Pusad,DW,Unconfined,2023-05,4.55,127,113,1,17544650351127476384file.pdf
+G/YT-030,Yavatmal,Pusad,Pusad,DW,Unconfined,2023-08,1.17,127,113,1,17544650351127476384file.pdf
+G/YT-030,Yavatmal,Pusad,Pusad,DW,Unconfined,2023-11,1.45,127,113,1,17544650351127476384file.pdf
+G/YT-030,Yavatmal,Pusad,Pusad,DW,Unconfined,2024-01,2.88,127,113,1,17544650351127476384file.pdf
+G/YT-031,Yavatmal,Babulgaon,Pahur,DW,Unconfined,2023-05,4.85,127,113,1,17544650351127476384file.pdf
+G/YT-031,Yavatmal,Babulgaon,Pahur,DW,Unconfined,2023-08,1.34,127,113,1,17544650351127476384file.pdf
+G/YT-031,Yavatmal,Babulgaon,Pahur,DW,Unconfined,2023-11,8.7,127,113,1,17544650351127476384file.pdf
+G/YT-031,Yavatmal,Babulgaon,Pahur,DW,Unconfined,2024-01,3.92,127,113,1,17544650351127476384file.pdf
+G/YT-032,Yavatmal,Maregaon,Mardi,DW,Unconfined,2023-05,5.43,127,113,1,17544650351127476384file.pdf
+G/YT-032,Yavatmal,Maregaon,Mardi,DW,Unconfined,2023-08,1.63,127,113,1,17544650351127476384file.pdf
+G/YT-032,Yavatmal,Maregaon,Mardi,DW,Unconfined,2023-11,3.82,127,113,1,17544650351127476384file.pdf
+G/YT-032,Yavatmal,Maregaon,Mardi,DW,Unconfined,2024-01,5.2,127,113,1,17544650351127476384file.pdf
+G/YT-033,Yavatmal,Kalamb,Jodmoha,DW,Unconfined,2023-05,5.5,127,113,1,17544650351127476384file.pdf
+G/YT-033,Yavatmal,Kalamb,Jodmoha,DW,Unconfined,2023-08,2.3,127,113,1,17544650351127476384file.pdf
+G/YT-033,Yavatmal,Kalamb,Jodmoha,DW,Unconfined,2023-11,5.8,127,113,1,17544650351127476384file.pdf
+G/YT-033,Yavatmal,Kalamb,Jodmoha,DW,Unconfined,2024-01,5.06,127,113,1,17544650351127476384file.pdf
+G/YT-035,Yavatmal,Ghatanji,Ghatanji,DW,Unconfined,2023-05,7.15,127,113,1,17544650351127476384file.pdf
+G/YT-035,Yavatmal,Ghatanji,Ghatanji,DW,Unconfined,2023-08,4.25,127,113,1,17544650351127476384file.pdf
+G/YT-035,Yavatmal,Ghatanji,Ghatanji,DW,Unconfined,2023-11,5.3,127,113,1,17544650351127476384file.pdf
+G/YT-035,Yavatmal,Ghatanji,Ghatanji,DW,Unconfined,2024-01,5.35,127,113,1,17544650351127476384file.pdf
+G/YT-036,Yavatmal,Ner,Mandeo,DW,Unconfined,2023-05,11.2,127,113,1,17544650351127476384file.pdf
+G/YT-036,Yavatmal,Ner,Mandeo,DW,Unconfined,2023-08,1.45,127,113,1,17544650351127476384file.pdf
+G/YT-036,Yavatmal,Ner,Mandeo,DW,Unconfined,2023-11,1.9,127,113,1,17544650351127476384file.pdf
+G/YT-036,Yavatmal,Ner,Mandeo,DW,Unconfined,2024-01,2.5,127,113,1,17544650351127476384file.pdf
+G/YT-038,Yavatmal,Kelapur,Pahapal,DW,Unconfined,2023-05,6.55,127,113,1,17544650351127476384file.pdf
+G/YT-038,Yavatmal,Kelapur,Pahapal,DW,Unconfined,2023-08,1.68,127,113,1,17544650351127476384file.pdf
+G/YT-038,Yavatmal,Kelapur,Pahapal,DW,Unconfined,2023-11,3.68,127,113,1,17544650351127476384file.pdf
+G/YT-038,Yavatmal,Kelapur,Pahapal,DW,Unconfined,2024-01,4.99,127,113,1,17544650351127476384file.pdf
+G/YT-040,Yavatmal,Ghatanji,Injhala,DW,Unconfined,2023-05,12.51,127,113,1,17544650351127476384file.pdf
+G/YT-040,Yavatmal,Ghatanji,Injhala,DW,Unconfined,2023-08,8.89,127,113,1,17544650351127476384file.pdf
+G/YT-040,Yavatmal,Ghatanji,Injhala,DW,Unconfined,2023-11,10.08,127,113,1,17544650351127476384file.pdf
+G/YT-040,Yavatmal,Ghatanji,Injhala,DW,Unconfined,2024-01,11.34,127,113,1,17544650351127476384file.pdf
+G/YT-041,Yavatmal,Yavatmal,Talegaon,DW,Unconfined,2023-05,2.5,127,113,1,17544650351127476384file.pdf
+G/YT-041,Yavatmal,Yavatmal,Talegaon,DW,Unconfined,2023-08,0.48,127,113,1,17544650351127476384file.pdf
+G/YT-041,Yavatmal,Yavatmal,Talegaon,DW,Unconfined,2023-11,1.5,127,113,1,17544650351127476384file.pdf
+G/YT-041,Yavatmal,Yavatmal,Talegaon,DW,Unconfined,2024-01,1.9,127,113,1,17544650351127476384file.pdf
+G/YT-042,Yavatmal,Yavatmal,Mangrule,DW,Unconfined,2023-05,3.7,127,113,1,17544650351127476384file.pdf
+G/YT-042,Yavatmal,Yavatmal,Mangrule,DW,Unconfined,2023-08,1.62,127,113,1,17544650351127476384file.pdf
+G/YT-042,Yavatmal,Yavatmal,Mangrule,DW,Unconfined,2023-11,2.6,127,113,1,17544650351127476384file.pdf
+G/YT-042,Yavatmal,Yavatmal,Mangrule,DW,Unconfined,2024-01,4.76,127,113,1,17544650351127476384file.pdf
+G/YT-044,Yavatmal,Yavatmal,Madkona,DW,Unconfined,2023-05,0.5,127,113,1,17544650351127476384file.pdf
+G/YT-044,Yavatmal,Yavatmal,Madkona,DW,Unconfined,2023-08,6.12,127,113,1,17544650351127476384file.pdf
+G/YT-044,Yavatmal,Yavatmal,Madkona,DW,Unconfined,2023-11,6.1,127,113,1,17544650351127476384file.pdf
+G/YT-044,Yavatmal,Yavatmal,Madkona,DW,Unconfined,2024-01,4.72,127,113,1,17544650351127476384file.pdf
+G/YT-045,Yavatmal,Ner,Jamwadi,DW,Unconfined,2023-05,2.65,127,113,1,17544650351127476384file.pdf
+G/YT-045,Yavatmal,Ner,Jamwadi,DW,Unconfined,2023-08,1.35,127,113,1,17544650351127476384file.pdf
+G/YT-045,Yavatmal,Ner,Jamwadi,DW,Unconfined,2023-11,3,127,113,1,17544650351127476384file.pdf
+G/YT-045,Yavatmal,Ner,Jamwadi,DW,Unconfined,2024-01,1.45,127,113,1,17544650351127476384file.pdf
+G/YT-046,Yavatmal,Digras,Vai (Lingi),DW,Unconfined,2023-05,5.5,127,113,1,17544650351127476384file.pdf
+G/YT-046,Yavatmal,Digras,Vai (Lingi),DW,Unconfined,2023-08,2.68,127,113,1,17544650351127476384file.pdf
+G/YT-046,Yavatmal,Digras,Vai (Lingi),DW,Unconfined,2023-11,3.9,127,113,1,17544650351127476384file.pdf
+G/YT-046,Yavatmal,Digras,Vai (Lingi),DW,Unconfined,2024-01,4.57,127,113,1,17544650351127476384file.pdf
+G/YT-049,Yavatmal,Ner,Mojhar,DW,Unconfined,2023-05,2.7,127,113,1,17544650351127476384file.pdf
+G/YT-049,Yavatmal,Ner,Mojhar,DW,Unconfined,2023-08,0.95,127,113,1,17544650351127476384file.pdf
+G/YT-049,Yavatmal,Ner,Mojhar,DW,Unconfined,2023-11,2.6,127,113,1,17544650351127476384file.pdf
+G/YT-049,Yavatmal,Ner,Mojhar,DW,Unconfined,2024-01,1.65,127,113,1,17544650351127476384file.pdf
+G/YT-050,Yavatmal,Ralegaon,Wadhona,DW,Unconfined,2023-05,4.65,127,113,1,17544650351127476384file.pdf
+G/YT-050,Yavatmal,Ralegaon,Wadhona,DW,Unconfined,2023-08,0.97,127,113,1,17544650351127476384file.pdf
+G/YT-050,Yavatmal,Ralegaon,Wadhona,DW,Unconfined,2023-11,4.25,127,113,1,17544650351127476384file.pdf
+G/YT-050,Yavatmal,Ralegaon,Wadhona,DW,Unconfined,2024-01,7.85,127,113,1,17544650351127476384file.pdf
+G/YT-051,Yavatmal,Ner,Umarda (Nursary),DW,Unconfined,2023-05,5.7,127,113,1,17544650351127476384file.pdf
+G/YT-051,Yavatmal,Ner,Umarda (Nursary),DW,Unconfined,2023-08,3.24,127,113,1,17544650351127476384file.pdf
+G/YT-051,Yavatmal,Ner,Umarda (Nursary),DW,Unconfined,2023-11,4.4,127,113,1,17544650351127476384file.pdf
+G/YT-051,Yavatmal,Ner,Umarda (Nursary),DW,Unconfined,2024-01,5.36,127,113,1,17544650351127476384file.pdf
+G/YT-052,Yavatmal,Kalamb,Kotha,DW,Unconfined,2023-05,4,127,113,1,17544650351127476384file.pdf
+G/YT-052,Yavatmal,Kalamb,Kotha,DW,Unconfined,2023-08,0.42,127,113,1,17544650351127476384file.pdf
+G/YT-052,Yavatmal,Kalamb,Kotha,DW,Unconfined,2023-11,2.9,127,113,1,17544650351127476384file.pdf
+G/YT-052,Yavatmal,Kalamb,Kotha,DW,Unconfined,2024-01,3,127,113,1,17544650351127476384file.pdf
+G/YT-053,Yavatmal,Babulgaon,Savar,DW,Unconfined,2023-05,5.5,128,114,1,17544650351127476384file.pdf
+G/YT-053,Yavatmal,Babulgaon,Savar,DW,Unconfined,2023-08,1.43,128,114,1,17544650351127476384file.pdf
+G/YT-053,Yavatmal,Babulgaon,Savar,DW,Unconfined,2023-11,4.1,128,114,1,17544650351127476384file.pdf
+G/YT-053,Yavatmal,Babulgaon,Savar,DW,Unconfined,2024-01,3.45,128,114,1,17544650351127476384file.pdf
+G/YT-057,Yavatmal,Kalamb,Chaparda,DW,Unconfined,2023-05,4.35,128,114,1,17544650351127476384file.pdf
+G/YT-057,Yavatmal,Kalamb,Chaparda,DW,Unconfined,2023-08,2.27,128,114,1,17544650351127476384file.pdf
+G/YT-057,Yavatmal,Kalamb,Chaparda,DW,Unconfined,2023-11,4.8,128,114,1,17544650351127476384file.pdf
+G/YT-057,Yavatmal,Kalamb,Chaparda,DW,Unconfined,2024-01,4.03,128,114,1,17544650351127476384file.pdf
+G/YT-058,Yavatmal,Ner,Dhanaj (Manekwada),DW,Unconfined,2023-05,3.6,128,114,1,17544650351127476384file.pdf
+G/YT-058,Yavatmal,Ner,Dhanaj (Manekwada),DW,Unconfined,2023-08,2.28,128,114,1,17544650351127476384file.pdf
+G/YT-058,Yavatmal,Ner,Dhanaj (Manekwada),DW,Unconfined,2023-11,3.4,128,114,1,17544650351127476384file.pdf
+G/YT-058,Yavatmal,Ner,Dhanaj (Manekwada),DW,Unconfined,2024-01,2.85,128,114,1,17544650351127476384file.pdf
+G/YT-061,Yavatmal,Ner,Mojhar_Pz,BW,Unconfined,2023-05,6.9,128,114,1,17544650351127476384file.pdf
+G/YT-061,Yavatmal,Ner,Mojhar_Pz,BW,Unconfined,2023-08,4.35,128,114,1,17544650351127476384file.pdf
+G/YT-061,Yavatmal,Ner,Mojhar_Pz,BW,Unconfined,2023-11,6.4,128,114,1,17544650351127476384file.pdf
+G/YT-061,Yavatmal,Ner,Mojhar_Pz,BW,Unconfined,2024-01,5.56,128,114,1,17544650351127476384file.pdf
+G/YT-064,Yavatmal,Babulgaon,Pahur_Pz,BW,Unconfined,2023-05,3.2,128,114,1,17544650351127476384file.pdf
+G/YT-064,Yavatmal,Babulgaon,Pahur_Pz,BW,Unconfined,2023-08,2.4,128,114,1,17544650351127476384file.pdf
+G/YT-064,Yavatmal,Babulgaon,Pahur_Pz,BW,Unconfined,2023-11,6.8,128,114,1,17544650351127476384file.pdf
+G/YT-064,Yavatmal,Babulgaon,Pahur_Pz,BW,Unconfined,2024-01,,128,114,1,17544650351127476384file.pdf
+G/YT-072,Yavatmal,Kelapur,Karanji1,DW,Unconfined,2023-05,8.3,128,114,1,17544650351127476384file.pdf
+G/YT-072,Yavatmal,Kelapur,Karanji1,DW,Unconfined,2023-08,2.18,128,114,1,17544650351127476384file.pdf
+G/YT-072,Yavatmal,Kelapur,Karanji1,DW,Unconfined,2023-11,7.12,128,114,1,17544650351127476384file.pdf
+G/YT-072,Yavatmal,Kelapur,Karanji1,DW,Unconfined,2024-01,4.75,128,114,1,17544650351127476384file.pdf
+G/YT-073,Yavatmal,Babulgaon,Sindhi_Pz,BW,Unconfined,2023-05,6.1,128,114,1,17544650351127476384file.pdf
+G/YT-073,Yavatmal,Babulgaon,Sindhi_Pz,BW,Unconfined,2023-08,1.9,128,114,1,17544650351127476384file.pdf
+G/YT-073,Yavatmal,Babulgaon,Sindhi_Pz,BW,Unconfined,2023-11,,128,114,1,17544650351127476384file.pdf
+G/YT-073,Yavatmal,Babulgaon,Sindhi_Pz,BW,Unconfined,2024-01,3.44,128,114,1,17544650351127476384file.pdf
+G/YT-075,Yavatmal,Darwha,Darwha_Pz,BW,Unconfined,2023-05,4.9,128,114,1,17544650351127476384file.pdf
+G/YT-075,Yavatmal,Darwha,Darwha_Pz,BW,Unconfined,2023-08,1.8,128,114,1,17544650351127476384file.pdf
+G/YT-075,Yavatmal,Darwha,Darwha_Pz,BW,Unconfined,2023-11,4.9,128,114,1,17544650351127476384file.pdf
+G/YT-075,Yavatmal,Darwha,Darwha_Pz,BW,Unconfined,2024-01,4.95,128,114,1,17544650351127476384file.pdf
+G/YT-076,Yavatmal,Ghatanji,Ghatanji_Pz,BW,Unconfined,2023-05,7.2,128,114,1,17544650351127476384file.pdf
+G/YT-076,Yavatmal,Ghatanji,Ghatanji_Pz,BW,Unconfined,2023-08,2.45,128,114,1,17544650351127476384file.pdf
+G/YT-076,Yavatmal,Ghatanji,Ghatanji_Pz,BW,Unconfined,2023-11,7.6,128,114,1,17544650351127476384file.pdf
+G/YT-076,Yavatmal,Ghatanji,Ghatanji_Pz,BW,Unconfined,2024-01,7.7,128,114,1,17544650351127476384file.pdf
+G/YT-077,Yavatmal,Ghatanji,Kurli_Pz,BW,Unconfined,2023-05,5,128,114,1,17544650351127476384file.pdf
+G/YT-077,Yavatmal,Ghatanji,Kurli_Pz,BW,Unconfined,2023-08,2.75,128,114,1,17544650351127476384file.pdf
+G/YT-077,Yavatmal,Ghatanji,Kurli_Pz,BW,Unconfined,2023-11,4.68,128,114,1,17544650351127476384file.pdf
+G/YT-077,Yavatmal,Ghatanji,Kurli_Pz,BW,Unconfined,2024-01,5.22,128,114,1,17544650351127476384file.pdf
+G/YT-078,Yavatmal,Ghatanji,Shiroli_Pz,BW,Unconfined,2023-05,14,128,114,1,17544650351127476384file.pdf
+G/YT-078,Yavatmal,Ghatanji,Shiroli_Pz,BW,Unconfined,2023-08,,128,114,1,17544650351127476384file.pdf
+G/YT-078,Yavatmal,Ghatanji,Shiroli_Pz,BW,Unconfined,2023-11,25.3,128,114,1,17544650351127476384file.pdf
+G/YT-078,Yavatmal,Ghatanji,Shiroli_Pz,BW,Unconfined,2024-01,8.28,128,114,1,17544650351127476384file.pdf
+G/YT-079,Yavatmal,Ner,Dhanaj (Manekwada)_Pz,BW,Unconfined,2023-05,4.3,128,114,1,17544650351127476384file.pdf
+G/YT-079,Yavatmal,Ner,Dhanaj (Manekwada)_Pz,BW,Unconfined,2023-08,1.96,128,114,1,17544650351127476384file.pdf
+G/YT-079,Yavatmal,Ner,Dhanaj (Manekwada)_Pz,BW,Unconfined,2023-11,4.1,128,114,1,17544650351127476384file.pdf
+G/YT-079,Yavatmal,Ner,Dhanaj (Manekwada)_Pz,BW,Unconfined,2024-01,4.05,128,114,1,17544650351127476384file.pdf
+G/YT-080,Yavatmal,Ner,Ner-Pz,BW,Unconfined,2023-05,3,128,114,1,17544650351127476384file.pdf
+G/YT-080,Yavatmal,Ner,Ner-Pz,BW,Unconfined,2023-08,0.45,128,114,1,17544650351127476384file.pdf
+G/YT-080,Yavatmal,Ner,Ner-Pz,BW,Unconfined,2023-11,2.65,128,114,1,17544650351127476384file.pdf
+G/YT-080,Yavatmal,Ner,Ner-Pz,BW,Unconfined,2024-01,3.1,128,114,1,17544650351127476384file.pdf
+G/YT-082,Yavatmal,Kelapur,Karanji_Pz,BW,Unconfined,2023-05,7.3,128,114,1,17544650351127476384file.pdf
+G/YT-082,Yavatmal,Kelapur,Karanji_Pz,BW,Unconfined,2023-08,1.5,128,114,1,17544650351127476384file.pdf
+G/YT-082,Yavatmal,Kelapur,Karanji_Pz,BW,Unconfined,2023-11,6.72,128,114,1,17544650351127476384file.pdf
+G/YT-082,Yavatmal,Kelapur,Karanji_Pz,BW,Unconfined,2024-01,4.54,128,114,1,17544650351127476384file.pdf
+G/YT-083,Yavatmal,Kelapur,Pandharkawada_Pz,BW,Unconfined,2023-05,5.8,128,114,1,17544650351127476384file.pdf
+G/YT-083,Yavatmal,Kelapur,Pandharkawada_Pz,BW,Unconfined,2023-08,2.5,128,114,1,17544650351127476384file.pdf
+G/YT-083,Yavatmal,Kelapur,Pandharkawada_Pz,BW,Unconfined,2023-11,4.96,128,114,1,17544650351127476384file.pdf
+G/YT-083,Yavatmal,Kelapur,Pandharkawada_Pz,BW,Unconfined,2024-01,5.18,128,114,1,17544650351127476384file.pdf
+G/YT-084,Yavatmal,Kelapur,Saykheda_Pz,BW,Unconfined,2023-05,8,128,114,1,17544650351127476384file.pdf
+G/YT-084,Yavatmal,Kelapur,Saykheda_Pz,BW,Unconfined,2023-08,1.5,128,114,1,17544650351127476384file.pdf
+G/YT-084,Yavatmal,Kelapur,Saykheda_Pz,BW,Unconfined,2023-11,2.8,128,114,1,17544650351127476384file.pdf
+G/YT-084,Yavatmal,Kelapur,Saykheda_Pz,BW,Unconfined,2024-01,6.6,128,114,1,17544650351127476384file.pdf
+G/YT-085,Yavatmal,Ralegaon,Ralegaon_Pz,BW,Unconfined,2023-05,6.7,128,114,1,17544650351127476384file.pdf
+G/YT-085,Yavatmal,Ralegaon,Ralegaon_Pz,BW,Unconfined,2023-08,1.04,128,114,1,17544650351127476384file.pdf
+G/YT-085,Yavatmal,Ralegaon,Ralegaon_Pz,BW,Unconfined,2023-11,6.6,128,114,1,17544650351127476384file.pdf
+G/YT-085,Yavatmal,Ralegaon,Ralegaon_Pz,BW,Unconfined,2024-01,6.86,128,114,1,17544650351127476384file.pdf
+G/YT-086,Yavatmal,Ralegaon,Wadki_Pz,BW,Unconfined,2023-05,10.3,128,114,1,17544650351127476384file.pdf
+G/YT-086,Yavatmal,Ralegaon,Wadki_Pz,BW,Unconfined,2023-08,6.15,128,114,1,17544650351127476384file.pdf
+G/YT-086,Yavatmal,Ralegaon,Wadki_Pz,BW,Unconfined,2023-11,7.72,128,114,1,17544650351127476384file.pdf
+G/YT-086,Yavatmal,Ralegaon,Wadki_Pz,BW,Unconfined,2024-01,11.12,128,114,1,17544650351127476384file.pdf
+G/YT-088,Yavatmal,Yavatmal,Akolabazar_Pz,BW,Unconfined,2023-05,5.5,128,114,1,17544650351127476384file.pdf
+G/YT-088,Yavatmal,Yavatmal,Akolabazar_Pz,BW,Unconfined,2023-08,3.9,128,114,1,17544650351127476384file.pdf
+G/YT-088,Yavatmal,Yavatmal,Akolabazar_Pz,BW,Unconfined,2023-11,2.2,128,114,1,17544650351127476384file.pdf
+G/YT-088,Yavatmal,Yavatmal,Akolabazar_Pz,BW,Unconfined,2024-01,4.7,128,114,1,17544650351127476384file.pdf
+G/YT-089,Yavatmal,Yavatmal,Bhari_Pz,BW,Unconfined,2023-05,2.9,128,114,1,17544650351127476384file.pdf
+G/YT-089,Yavatmal,Yavatmal,Bhari_Pz,BW,Unconfined,2023-08,2.23,128,114,1,17544650351127476384file.pdf
+G/YT-089,Yavatmal,Yavatmal,Bhari_Pz,BW,Unconfined,2023-11,3.1,128,114,1,17544650351127476384file.pdf
+G/YT-089,Yavatmal,Yavatmal,Bhari_Pz,BW,Unconfined,2024-01,3.54,128,114,1,17544650351127476384file.pdf
+G/YT-090,Yavatmal,Yavatmal,Yelbara_Pz,BW,Unconfined,2023-05,3.6,128,114,1,17544650351127476384file.pdf
+G/YT-090,Yavatmal,Yavatmal,Yelbara_Pz,BW,Unconfined,2023-08,1.1,128,114,1,17544650351127476384file.pdf
+G/YT-090,Yavatmal,Yavatmal,Yelbara_Pz,BW,Unconfined,2023-11,6.7,128,114,1,17544650351127476384file.pdf
+G/YT-090,Yavatmal,Yavatmal,Yelbara_Pz,BW,Unconfined,2024-01,4.06,128,114,1,17544650351127476384file.pdf
+G/YT-091,Yavatmal,Kelapur,Mukutban_Pz,BW,Unconfined,2023-05,10.7,128,114,1,17544650351127476384file.pdf
+G/YT-091,Yavatmal,Kelapur,Mukutban_Pz,BW,Unconfined,2023-08,,128,114,1,17544650351127476384file.pdf
+G/YT-091,Yavatmal,Kelapur,Mukutban_Pz,BW,Unconfined,2023-11,7.68,128,114,1,17544650351127476384file.pdf
+G/YT-091,Yavatmal,Kelapur,Mukutban_Pz,BW,Unconfined,2024-01,9.94,128,114,1,17544650351127476384file.pdf
+G/YT-092,Yavatmal,Kelapur,Patan_Pz,BW,Unconfined,2023-05,2.3,128,114,1,17544650351127476384file.pdf
+G/YT-092,Yavatmal,Kelapur,Patan_Pz,BW,Unconfined,2023-08,0.9,128,114,1,17544650351127476384file.pdf
+G/YT-092,Yavatmal,Kelapur,Patan_Pz,BW,Unconfined,2023-11,2.58,128,114,1,17544650351127476384file.pdf
+G/YT-092,Yavatmal,Kelapur,Patan_Pz,BW,Unconfined,2024-01,2.37,128,114,1,17544650351127476384file.pdf
+G/YT-093,Yavatmal,Ralegaon,Zadgaon,DW,Unconfined,2023-05,,128,114,1,17544650351127476384file.pdf
+G/YT-093,Yavatmal,Ralegaon,Zadgaon,DW,Unconfined,2023-08,1.95,128,114,1,17544650351127476384file.pdf
+G/YT-093,Yavatmal,Ralegaon,Zadgaon,DW,Unconfined,2023-11,,128,114,1,17544650351127476384file.pdf
+G/YT-093,Yavatmal,Ralegaon,Zadgaon,DW,Unconfined,2024-01,3.84,128,114,1,17544650351127476384file.pdf
+G/YT-094,Yavatmal,Kalamb,Aamla,DW,Unconfined,2023-05,3.8,128,114,1,17544650351127476384file.pdf
+G/YT-094,Yavatmal,Kalamb,Aamla,DW,Unconfined,2023-08,0.72,128,114,1,17544650351127476384file.pdf
+G/YT-094,Yavatmal,Kalamb,Aamla,DW,Unconfined,2023-11,3.6,128,114,1,17544650351127476384file.pdf
+G/YT-094,Yavatmal,Kalamb,Aamla,DW,Unconfined,2024-01,1.86,128,114,1,17544650351127476384file.pdf
+G/YT-095,Yavatmal,Babulgaon,Dighi-Punarvasan-1,DW,Unconfined,2023-05,3.3,128,114,1,17544650351127476384file.pdf
+G/YT-095,Yavatmal,Babulgaon,Dighi-Punarvasan-1,DW,Unconfined,2023-08,2.45,128,114,1,17544650351127476384file.pdf
+G/YT-095,Yavatmal,Babulgaon,Dighi-Punarvasan-1,DW,Unconfined,2023-11,3.5,128,114,1,17544650351127476384file.pdf
+G/YT-095,Yavatmal,Babulgaon,Dighi-Punarvasan-1,DW,Unconfined,2024-01,4.88,128,114,1,17544650351127476384file.pdf
+G/YT-096,Yavatmal,Babulgaon,Sarul,DW,Unconfined,2023-05,7,129,115,1,17544650351127476384file.pdf
+G/YT-096,Yavatmal,Babulgaon,Sarul,DW,Unconfined,2023-08,5.52,129,115,1,17544650351127476384file.pdf
+G/YT-096,Yavatmal,Babulgaon,Sarul,DW,Unconfined,2023-11,6.7,129,115,1,17544650351127476384file.pdf
+G/YT-096,Yavatmal,Babulgaon,Sarul,DW,Unconfined,2024-01,8.5,129,115,1,17544650351127476384file.pdf
+G/YT-097,Yavatmal,Digras,Singad,DW,Unconfined,2023-05,5.4,129,115,1,17544650351127476384file.pdf
+G/YT-097,Yavatmal,Digras,Singad,DW,Unconfined,2023-08,1.92,129,115,1,17544650351127476384file.pdf
+G/YT-097,Yavatmal,Digras,Singad,DW,Unconfined,2023-11,6.63,129,115,1,17544650351127476384file.pdf
+G/YT-097,Yavatmal,Digras,Singad,DW,Unconfined,2024-01,5,129,115,1,17544650351127476384file.pdf
+G/YT-098,Yavatmal,Kelapur,Rampur,DW,Unconfined,2023-05,5.1,129,115,1,17544650351127476384file.pdf
+G/YT-098,Yavatmal,Kelapur,Rampur,DW,Unconfined,2023-08,2.32,129,115,1,17544650351127476384file.pdf
+G/YT-098,Yavatmal,Kelapur,Rampur,DW,Unconfined,2023-11,4.1,129,115,1,17544650351127476384file.pdf
+G/YT-098,Yavatmal,Kelapur,Rampur,DW,Unconfined,2024-01,3.46,129,115,1,17544650351127476384file.pdf
+G/YT-099,Yavatmal,Ghatanji,Mowada,DW,Unconfined,2023-05,8.1,129,115,1,17544650351127476384file.pdf
+G/YT-099,Yavatmal,Ghatanji,Mowada,DW,Unconfined,2023-08,2.96,129,115,1,17544650351127476384file.pdf
+G/YT-099,Yavatmal,Ghatanji,Mowada,DW,Unconfined,2023-11,4.1,129,115,1,17544650351127476384file.pdf
+G/YT-099,Yavatmal,Ghatanji,Mowada,DW,Unconfined,2024-01,5.86,129,115,1,17544650351127476384file.pdf
+G/YT-100,Yavatmal,Maregaon,Buranda-Hetis,DW,Unconfined,2023-05,2.75,129,115,1,17544650351127476384file.pdf
+G/YT-100,Yavatmal,Maregaon,Buranda-Hetis,DW,Unconfined,2023-08,0.95,129,115,1,17544650351127476384file.pdf
+G/YT-100,Yavatmal,Maregaon,Buranda-Hetis,DW,Unconfined,2023-11,2.75,129,115,1,17544650351127476384file.pdf
+G/YT-100,Yavatmal,Maregaon,Buranda-Hetis,DW,Unconfined,2024-01,2.1,129,115,1,17544650351127476384file.pdf
+G/YT-101,Yavatmal,Kalamb,Metikheda,DW,Unconfined,2023-05,5,129,115,1,17544650351127476384file.pdf
+G/YT-101,Yavatmal,Kalamb,Metikheda,DW,Unconfined,2023-08,0.55,129,115,1,17544650351127476384file.pdf
+G/YT-101,Yavatmal,Kalamb,Metikheda,DW,Unconfined,2023-11,1.3,129,115,1,17544650351127476384file.pdf
+G/YT-101,Yavatmal,Kalamb,Metikheda,DW,Unconfined,2024-01,1.38,129,115,1,17544650351127476384file.pdf
+G/YT-102,Yavatmal,Yavatmal,Yavatmal,DW,Unconfined,2023-05,2.2,129,115,1,17544650351127476384file.pdf
+G/YT-102,Yavatmal,Yavatmal,Yavatmal,DW,Unconfined,2023-08,1.25,129,115,1,17544650351127476384file.pdf
+G/YT-102,Yavatmal,Yavatmal,Yavatmal,DW,Unconfined,2023-11,2.5,129,115,1,17544650351127476384file.pdf
+G/YT-102,Yavatmal,Yavatmal,Yavatmal,DW,Unconfined,2024-01,1.98,129,115,1,17544650351127476384file.pdf
+G/YT-103,Yavatmal,Mahagaon,Mahagaon taluka,DW,Unconfined,2023-05,14.6,129,115,1,17544650351127476384file.pdf
+G/YT-103,Yavatmal,Mahagaon,Mahagaon taluka,DW,Unconfined,2023-08,,129,115,1,17544650351127476384file.pdf
+G/YT-103,Yavatmal,Mahagaon,Mahagaon taluka,DW,Unconfined,2023-11,16.98,129,115,1,17544650351127476384file.pdf
+G/YT-103,Yavatmal,Mahagaon,Mahagaon taluka,DW,Unconfined,2024-01,10.24,129,115,1,17544650351127476384file.pdf
+G/YT-104,Yavatmal,Ghatanji,Pandhurna (BK),DW,Unconfined,2023-05,4.6,129,115,1,17544650351127476384file.pdf
+G/YT-104,Yavatmal,Ghatanji,Pandhurna (BK),DW,Unconfined,2023-08,1.1,129,115,1,17544650351127476384file.pdf
+G/YT-104,Yavatmal,Ghatanji,Pandhurna (BK),DW,Unconfined,2023-11,2.3,129,115,1,17544650351127476384file.pdf
+G/YT-104,Yavatmal,Ghatanji,Pandhurna (BK),DW,Unconfined,2024-01,2.86,129,115,1,17544650351127476384file.pdf
+G/YT-105,Yavatmal,Kelapur,Khatara,DW,Unconfined,2023-05,5.2,129,115,1,17544650351127476384file.pdf
+G/YT-105,Yavatmal,Kelapur,Khatara,DW,Unconfined,2023-08,2.2,129,115,1,17544650351127476384file.pdf
+G/YT-105,Yavatmal,Kelapur,Khatara,DW,Unconfined,2023-11,5.22,129,115,1,17544650351127476384file.pdf
+G/YT-105,Yavatmal,Kelapur,Khatara,DW,Unconfined,2024-01,6.1,129,115,1,17544650351127476384file.pdf
+G/YT-106,Yavatmal,Ghatanji,Dahegaon,DW,Unconfined,2023-05,4.3,129,115,1,17544650351127476384file.pdf
+G/YT-106,Yavatmal,Ghatanji,Dahegaon,DW,Unconfined,2023-08,2.33,129,115,1,17544650351127476384file.pdf
+G/YT-106,Yavatmal,Ghatanji,Dahegaon,DW,Unconfined,2023-11,2.32,129,115,1,17544650351127476384file.pdf
+G/YT-106,Yavatmal,Ghatanji,Dahegaon,DW,Unconfined,2024-01,4.7,129,115,1,17544650351127476384file.pdf
+G/YT-107,Yavatmal,Mahagaon,Khadka,DW,Unconfined,2023-05,3.3,129,115,1,17544650351127476384file.pdf
+G/YT-107,Yavatmal,Mahagaon,Khadka,DW,Unconfined,2023-08,1.65,129,115,1,17544650351127476384file.pdf
+G/YT-107,Yavatmal,Mahagaon,Khadka,DW,Unconfined,2023-11,3.4,129,115,1,17544650351127476384file.pdf
+G/YT-107,Yavatmal,Mahagaon,Khadka,DW,Unconfined,2024-01,3.7,129,115,1,17544650351127476384file.pdf
+G/YT-109,Yavatmal,Kelapur,Satpali,DW,Unconfined,2023-05,3.1,129,115,1,17544650351127476384file.pdf
+G/YT-109,Yavatmal,Kelapur,Satpali,DW,Unconfined,2023-08,4.73,129,115,1,17544650351127476384file.pdf
+G/YT-109,Yavatmal,Kelapur,Satpali,DW,Unconfined,2023-11,6.7,129,115,1,17544650351127476384file.pdf
+G/YT-109,Yavatmal,Kelapur,Satpali,DW,Unconfined,2024-01,6.58,129,115,1,17544650351127476384file.pdf
+G/YT-110,Yavatmal,Wani,Wani-1,DW,Unconfined,2023-05,7.9,129,115,1,17544650351127476384file.pdf
+G/YT-110,Yavatmal,Wani,Wani-1,DW,Unconfined,2023-08,7.95,129,115,1,17544650351127476384file.pdf
+G/YT-110,Yavatmal,Wani,Wani-1,DW,Unconfined,2023-11,11,129,115,1,17544650351127476384file.pdf
+G/YT-110,Yavatmal,Wani,Wani-1,DW,Unconfined,2024-01,10.9,129,115,1,17544650351127476384file.pdf
+G/YT-111,Yavatmal,Wani,Punwat-1,DW,Unconfined,2023-05,3.6,129,115,1,17544650351127476384file.pdf
+G/YT-111,Yavatmal,Wani,Punwat-1,DW,Unconfined,2023-08,1.95,129,115,1,17544650351127476384file.pdf
+G/YT-111,Yavatmal,Wani,Punwat-1,DW,Unconfined,2023-11,2.56,129,115,1,17544650351127476384file.pdf
+G/YT-111,Yavatmal,Wani,Punwat-1,DW,Unconfined,2024-01,2.1,129,115,1,17544650351127476384file.pdf
+G/YT-112,Yavatmal,Wani,Bhandewada,DW,Unconfined,2023-05,3,129,115,1,17544650351127476384file.pdf
+G/YT-112,Yavatmal,Wani,Bhandewada,DW,Unconfined,2023-08,,129,115,1,17544650351127476384file.pdf
+G/YT-112,Yavatmal,Wani,Bhandewada,DW,Unconfined,2023-11,1.26,129,115,1,17544650351127476384file.pdf
+G/YT-112,Yavatmal,Wani,Bhandewada,DW,Unconfined,2024-01,1.9,129,115,1,17544650351127476384file.pdf
+G/YT-113,Yavatmal,Umarkhed,Umarkhed 1,DW,Unconfined,2023-05,5.2,129,115,1,17544650351127476384file.pdf
+G/YT-113,Yavatmal,Umarkhed,Umarkhed 1,DW,Unconfined,2023-08,2.39,129,115,1,17544650351127476384file.pdf
+G/YT-113,Yavatmal,Umarkhed,Umarkhed 1,DW,Unconfined,2023-11,4.12,129,115,1,17544650351127476384file.pdf
+G/YT-113,Yavatmal,Umarkhed,Umarkhed 1,DW,Unconfined,2024-01,5.26,129,115,1,17544650351127476384file.pdf
+G/YT-114,Yavatmal,Babulgaon,Babhulgaon-1,DW,Unconfined,2023-05,7.2,129,115,1,17544650351127476384file.pdf
+G/YT-114,Yavatmal,Babulgaon,Babhulgaon-1,DW,Unconfined,2023-08,6.02,129,115,1,17544650351127476384file.pdf
+G/YT-114,Yavatmal,Babulgaon,Babhulgaon-1,DW,Unconfined,2023-11,7.1,129,115,1,17544650351127476384file.pdf
+G/YT-114,Yavatmal,Babulgaon,Babhulgaon-1,DW,Unconfined,2024-01,6.7,129,115,1,17544650351127476384file.pdf
+G/YT-116,Yavatmal,Ner,Ner,DW,Unconfined,2023-05,3.6,129,115,1,17544650351127476384file.pdf
+G/YT-116,Yavatmal,Ner,Ner,DW,Unconfined,2023-08,0.82,129,115,1,17544650351127476384file.pdf
+G/YT-116,Yavatmal,Ner,Ner,DW,Unconfined,2023-11,2.9,129,115,1,17544650351127476384file.pdf
+G/YT-116,Yavatmal,Ner,Ner,DW,Unconfined,2024-01,1.65,129,115,1,17544650351127476384file.pdf
+G/YT-117,Yavatmal,Darwha,Sangwi Rly,DW,Unconfined,2023-05,10.8,129,115,1,17544650351127476384file.pdf
+G/YT-117,Yavatmal,Darwha,Sangwi Rly,DW,Unconfined,2023-08,2.79,129,115,1,17544650351127476384file.pdf
+G/YT-117,Yavatmal,Darwha,Sangwi Rly,DW,Unconfined,2023-11,4.1,129,115,1,17544650351127476384file.pdf
+G/YT-117,Yavatmal,Darwha,Sangwi Rly,DW,Unconfined,2024-01,5.7,129,115,1,17544650351127476384file.pdf
+G/YT-118,Yavatmal,Darwha,Bori (Arab)-1,DW,Unconfined,2023-05,8.1,129,115,1,17544650351127476384file.pdf
+G/YT-118,Yavatmal,Darwha,Bori (Arab)-1,DW,Unconfined,2023-08,3.85,129,115,1,17544650351127476384file.pdf
+G/YT-118,Yavatmal,Darwha,Bori (Arab)-1,DW,Unconfined,2023-11,8.5,129,115,1,17544650351127476384file.pdf
+G/YT-118,Yavatmal,Darwha,Bori (Arab)-1,DW,Unconfined,2024-01,6.1,129,115,1,17544650351127476384file.pdf
+G/YT-119,Yavatmal,Ner,Ladkhed-1,DW,Unconfined,2023-05,8.9,129,115,1,17544650351127476384file.pdf
+G/YT-119,Yavatmal,Ner,Ladkhed-1,DW,Unconfined,2023-08,4.08,129,115,1,17544650351127476384file.pdf
+G/YT-119,Yavatmal,Ner,Ladkhed-1,DW,Unconfined,2023-11,7.1,129,115,1,17544650351127476384file.pdf
+G/YT-119,Yavatmal,Ner,Ladkhed-1,DW,Unconfined,2024-01,8.16,129,115,1,17544650351127476384file.pdf
+G/YT-120,Yavatmal,Digras,Arni-1,DW,Unconfined,2023-05,4.5,129,115,1,17544650351127476384file.pdf
+G/YT-120,Yavatmal,Digras,Arni-1,DW,Unconfined,2023-08,2.22,129,115,1,17544650351127476384file.pdf
+G/YT-120,Yavatmal,Digras,Arni-1,DW,Unconfined,2023-11,6.47,129,115,1,17544650351127476384file.pdf
+G/YT-120,Yavatmal,Digras,Arni-1,DW,Unconfined,2024-01,6.1,129,115,1,17544650351127476384file.pdf
+G/YT-121,Yavatmal,Ghatanji,Talni,DW,Unconfined,2023-05,5.9,129,115,1,17544650351127476384file.pdf
+G/YT-121,Yavatmal,Ghatanji,Talni,DW,Unconfined,2023-08,1.3,129,115,1,17544650351127476384file.pdf
+G/YT-121,Yavatmal,Ghatanji,Talni,DW,Unconfined,2023-11,3.04,129,115,1,17544650351127476384file.pdf
+G/YT-121,Yavatmal,Ghatanji,Talni,DW,Unconfined,2024-01,3.44,129,115,1,17544650351127476384file.pdf
+G/YT-122,Yavatmal,Ghatanji,Sawli Sadoba,DW,Unconfined,2023-05,5.8,129,115,1,17544650351127476384file.pdf
+G/YT-122,Yavatmal,Ghatanji,Sawli Sadoba,DW,Unconfined,2023-08,1.58,129,115,1,17544650351127476384file.pdf
+G/YT-122,Yavatmal,Ghatanji,Sawli Sadoba,DW,Unconfined,2023-11,4.28,129,115,1,17544650351127476384file.pdf
+G/YT-122,Yavatmal,Ghatanji,Sawli Sadoba,DW,Unconfined,2024-01,5.95,129,115,1,17544650351127476384file.pdf
+G/YT-123,Yavatmal,Kelapur,Shibla,DW,Unconfined,2023-05,4.35,129,115,1,17544650351127476384file.pdf
+G/YT-123,Yavatmal,Kelapur,Shibla,DW,Unconfined,2023-08,2.72,129,115,1,17544650351127476384file.pdf
+G/YT-123,Yavatmal,Kelapur,Shibla,DW,Unconfined,2023-11,3.33,129,115,1,17544650351127476384file.pdf
+G/YT-123,Yavatmal,Kelapur,Shibla,DW,Unconfined,2024-01,3.78,129,115,1,17544650351127476384file.pdf
+G/YT-124,Yavatmal,Maregaon,Jamni,DW,Unconfined,2023-05,4.1,130,116,1,17544650351127476384file.pdf
+G/YT-124,Yavatmal,Maregaon,Jamni,DW,Unconfined,2023-08,2.3,130,116,1,17544650351127476384file.pdf
+G/YT-124,Yavatmal,Maregaon,Jamni,DW,Unconfined,2023-11,3.08,130,116,1,17544650351127476384file.pdf
+G/YT-124,Yavatmal,Maregaon,Jamni,DW,Unconfined,2024-01,4.13,130,116,1,17544650351127476384file.pdf
+G/YT-125,Yavatmal,Umarkhed,Phulsawangi,DW,Unconfined,2023-05,6,130,116,1,17544650351127476384file.pdf
+G/YT-125,Yavatmal,Umarkhed,Phulsawangi,DW,Unconfined,2023-08,,130,116,1,17544650351127476384file.pdf
+G/YT-125,Yavatmal,Umarkhed,Phulsawangi,DW,Unconfined,2023-11,6.42,130,116,1,17544650351127476384file.pdf
+G/YT-125,Yavatmal,Umarkhed,Phulsawangi,DW,Unconfined,2024-01,9.2,130,116,1,17544650351127476384file.pdf
+G/YT-126,Yavatmal,Darwha,Darwha,DW,Unconfined,2023-05,4.1,130,116,1,17544650351127476384file.pdf
+G/YT-126,Yavatmal,Darwha,Darwha,DW,Unconfined,2023-08,0.97,130,116,1,17544650351127476384file.pdf
+G/YT-126,Yavatmal,Darwha,Darwha,DW,Unconfined,2023-11,2.8,130,116,1,17544650351127476384file.pdf
+G/YT-126,Yavatmal,Darwha,Darwha,DW,Unconfined,2024-01,5.6,130,116,1,17544650351127476384file.pdf
+G/YT-127,Yavatmal,Babulgaon,Naygaon,DW,Unconfined,2023-05,6.3,130,116,1,17544650351127476384file.pdf
+G/YT-127,Yavatmal,Babulgaon,Naygaon,DW,Unconfined,2023-08,1.84,130,116,1,17544650351127476384file.pdf
+G/YT-127,Yavatmal,Babulgaon,Naygaon,DW,Unconfined,2023-11,2.8,130,116,1,17544650351127476384file.pdf
+G/YT-127,Yavatmal,Babulgaon,Naygaon,DW,Unconfined,2024-01,8.4,130,116,1,17544650351127476384file.pdf
+G/YT-128,Yavatmal,Ralegaon,Pimpri Durg,DW,Unconfined,2023-05,7,130,116,1,17544650351127476384file.pdf
+G/YT-128,Yavatmal,Ralegaon,Pimpri Durg,DW,Unconfined,2023-08,1.5,130,116,1,17544650351127476384file.pdf
+G/YT-128,Yavatmal,Ralegaon,Pimpri Durg,DW,Unconfined,2023-11,5.45,130,116,1,17544650351127476384file.pdf
+G/YT-128,Yavatmal,Ralegaon,Pimpri Durg,DW,Unconfined,2024-01,3.46,130,116,1,17544650351127476384file.pdf
+G/YT-129,Yavatmal,Ghatanji,Chatari,DW,Unconfined,2023-05,6.7,130,116,1,17544650351127476384file.pdf
+G/YT-129,Yavatmal,Ghatanji,Chatari,DW,Unconfined,2023-08,2.62,130,116,1,17544650351127476384file.pdf
+G/YT-129,Yavatmal,Ghatanji,Chatari,DW,Unconfined,2023-11,5.05,130,116,1,17544650351127476384file.pdf
+G/YT-129,Yavatmal,Ghatanji,Chatari,DW,Unconfined,2024-01,4.4,130,116,1,17544650351127476384file.pdf
+G/YT-130,Yavatmal,Umarkhed,Dhanki1,DW,Unconfined,2023-05,9.75,130,116,1,17544650351127476384file.pdf
+G/YT-130,Yavatmal,Umarkhed,Dhanki1,DW,Unconfined,2023-08,3.08,130,116,1,17544650351127476384file.pdf
+G/YT-130,Yavatmal,Umarkhed,Dhanki1,DW,Unconfined,2023-11,5.82,130,116,1,17544650351127476384file.pdf
+G/YT-130,Yavatmal,Umarkhed,Dhanki1,DW,Unconfined,2024-01,8.9,130,116,1,17544650351127476384file.pdf
+G/YT-133,Yavatmal,Ner,Sarangpur,DW,Unconfined,2023-05,,130,116,1,17544650351127476384file.pdf
+G/YT-133,Yavatmal,Ner,Sarangpur,DW,Unconfined,2023-08,5.22,130,116,1,17544650351127476384file.pdf
+G/YT-133,Yavatmal,Ner,Sarangpur,DW,Unconfined,2023-11,7.08,130,116,1,17544650351127476384file.pdf
+G/YT-133,Yavatmal,Ner,Sarangpur,DW,Unconfined,2024-01,8.05,130,116,1,17544650351127476384file.pdf
+G/YT-134,Yavatmal,Ner,Kolura,DW,Unconfined,2023-05,,130,116,1,17544650351127476384file.pdf
+G/YT-134,Yavatmal,Ner,Kolura,DW,Unconfined,2023-08,1.74,130,116,1,17544650351127476384file.pdf
+G/YT-134,Yavatmal,Ner,Kolura,DW,Unconfined,2023-11,2.18,130,116,1,17544650351127476384file.pdf
+G/YT-134,Yavatmal,Ner,Kolura,DW,Unconfined,2024-01,2,130,116,1,17544650351127476384file.pdf
+G/YT-135,Yavatmal,Ner,Chinchgaon,DW,Unconfined,2023-05,,130,116,1,17544650351127476384file.pdf
+G/YT-135,Yavatmal,Ner,Chinchgaon,DW,Unconfined,2023-08,2.08,130,116,1,17544650351127476384file.pdf
+G/YT-135,Yavatmal,Ner,Chinchgaon,DW,Unconfined,2023-11,2.02,130,116,1,17544650351127476384file.pdf
+G/YT-135,Yavatmal,Ner,Chinchgaon,DW,Unconfined,2024-01,2.2,130,116,1,17544650351127476384file.pdf
+G/YT-136,Yavatmal,Ner,Nakhegaon,DW,Unconfined,2023-05,,130,116,1,17544650351127476384file.pdf
+G/YT-136,Yavatmal,Ner,Nakhegaon,DW,Unconfined,2023-08,1.65,130,116,1,17544650351127476384file.pdf
+G/YT-136,Yavatmal,Ner,Nakhegaon,DW,Unconfined,2023-11,1.3,130,116,1,17544650351127476384file.pdf
+G/YT-136,Yavatmal,Ner,Nakhegaon,DW,Unconfined,2024-01,1.53,130,116,1,17544650351127476384file.pdf
+G/YT-137,Yavatmal,Ner,Uttarwadhona,DW,Unconfined,2023-05,,130,116,1,17544650351127476384file.pdf
+G/YT-137,Yavatmal,Ner,Uttarwadhona,DW,Unconfined,2023-08,1.55,130,116,1,17544650351127476384file.pdf
+G/YT-137,Yavatmal,Ner,Uttarwadhona,DW,Unconfined,2023-11,3.32,130,116,1,17544650351127476384file.pdf
+G/YT-137,Yavatmal,Ner,Uttarwadhona,DW,Unconfined,2024-01,2.95,130,116,1,17544650351127476384file.pdf
+G/YT-138,Yavatmal,Umarkhed,Vidul,DW,Unconfined,2023-05,,130,116,1,17544650351127476384file.pdf
+G/YT-138,Yavatmal,Umarkhed,Vidul,DW,Unconfined,2023-08,2.14,130,116,1,17544650351127476384file.pdf
+G/YT-138,Yavatmal,Umarkhed,Vidul,DW,Unconfined,2023-11,4.85,130,116,1,17544650351127476384file.pdf
+G/YT-138,Yavatmal,Umarkhed,Vidul,DW,Unconfined,2024-01,7.47,130,116,1,17544650351127476384file.pdf
+G/YT-139,Yavatmal,Yavatmal,Rui,DW,Unconfined,2023-05,,130,116,1,17544650351127476384file.pdf
+G/YT-139,Yavatmal,Yavatmal,Rui,DW,Unconfined,2023-08,2.05,130,116,1,17544650351127476384file.pdf
+G/YT-139,Yavatmal,Yavatmal,Rui,DW,Unconfined,2023-11,1.29,130,116,1,17544650351127476384file.pdf
+G/YT-139,Yavatmal,Yavatmal,Rui,DW,Unconfined,2024-01,2.35,130,116,1,17544650351127476384file.pdf
