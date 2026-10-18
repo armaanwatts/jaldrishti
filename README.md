@@ -12,4 +12,4 @@ React dashboard, FastAPI backend, historical CGWB observations, rainfall pilot, 
 
 No admin password, push private keys, device profiles or private logs are shipped. Set secrets in the backend host.
 
-This is a research prototype. Historical colours are not current crisis classifications. Current-season warnings remain disabled pending scientific validation. Third-party source provenance and notices are retained.
+This is a research prototype. Historical colours are not current crisis classifications. Current season warnings remain disabled pending scientific validation. Third-party source provenance and notices are retained.
